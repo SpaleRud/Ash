@@ -1,0 +1,17 @@
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\bin\Debug\testAsh.dll
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\bin\Debug\testAsh.pdb
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\bin\Debug\Ash.exe
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\bin\Debug\ClassLibrary.dll
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\bin\Debug\nunit.framework.dll
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\bin\Debug\Ash.pdb
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\bin\Debug\Ash.exe.config
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\bin\Debug\nunit.framework.xml
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\obj\Debug\testAsh.csproj.AssemblyReference.cache
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\obj\Debug\testAsh.csproj.CoreCompileInputs.cache
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\obj\Debug\testAsh.csproj.CopyComplete
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\obj\Debug\testAsh.dll
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\obj\Debug\testAsh.pdb
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\bin\Debug\x86\sqlite3.dll
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\bin\Debug\x64\sqlite3.dll
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\bin\Debug\Database.mdf
+C:\Users\zakha\Documents\Coding\Kurs\Ash\testAsh\bin\Debug\Database_log.ldf
